@@ -3,7 +3,7 @@
 
 
 blog： [https://github.com/yanm1e/yanmie-art.github.io](https://github.com/yanm1e/yanmie-art.github.io)    
-QQ：NTE5NDYxNjIz
+QQ：无
 
 ## About Me
 Java|php|大菜鸡<br/>
