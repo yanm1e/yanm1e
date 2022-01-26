@@ -6,8 +6,8 @@ blog： [https://github.com/yanm1e/yanmie-art.github.io](https://github.com/yanm
 QQ：NTE5NDYxNjIz
 
 ## About Me
-Java|采集   
-web安全|安卓逆向|渗透测试|代码审计    
+Java|php|大菜鸡
+web安全|渗透测试|代码审计    
 
 
 ## Languages
