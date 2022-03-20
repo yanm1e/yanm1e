@@ -3,17 +3,13 @@
 
 
 blog： [https://github.com/yanm1e/yanmie-art.github.io](https://github.com/yanm1e/yanmie-art.github.io)    
-QQ：无
+VX:  eWFubWllLS0=
 
 ## About Me
 Java|php|大菜鸡<br/>
 web安全|渗透测试|代码审计    
 
 
-## Languages
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 ## Stats
 ![yanm1e's github stats](https://github-readme-stats.vercel.app/api?username=yanm1e&show_icons=true&hide_border=false&theme=default&count_private=true&hide_title=false)
